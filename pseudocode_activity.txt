@@ -1,0 +1,13 @@
+1. set time for alarm to go off
+1a. specify exact hour and minute.
+1b. specify whether or not it's am or pm
+1c. specify what data you want the alarm to go off (day or week).
+
+2. if the current time is not equal to the time the alarm is supposed to go off:
+2a. Alarm will not sound
+2b. wait untill current time is equal to the time the alarm is suppode to go off
+
+3. If the current is equal to the time the alarm is suppodes to go off.
+3a. The alarm will sound
+3b. the user can either turn the alarm off or snooze the alarm for 5 minutes before sounding again
+
