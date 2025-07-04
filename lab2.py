@@ -2,9 +2,12 @@ name = "Emari Adams"
 
 name2 = "sidere"
 
-age = 23.02
+age = 15.5
 
-used_python = True 
+used_python=True 
 
-hobbies = 
+hobbies=["eating", "sleeping"]
 
+Favorite_things={"movies": ["blah blah", "meep meep", "captain idk"]} 
+
+print(Favorite_things)
