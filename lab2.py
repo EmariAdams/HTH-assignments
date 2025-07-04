@@ -10,4 +10,3 @@ hobbies=["eating", "sleeping"]
 
 Favorite_things={"movies": ["blah blah", "meep meep", "captain idk"]} 
 
-print(Favorite_things)
